@@ -1,0 +1,20 @@
+Tau Model
+OneNeuronTau(-65, 30, 100, 1, 60) 
+OneNeuronTau(-65, 30, 100, 1, 60) 
+
+Izhikevich Model
+OneNeuronIzhInF(100, 0.01, 0.02, 0.2, 30, -65, 8, 14)
+OneNeuronIzhInF(100, 0.01, 0.02, 0.2, 30, -55, 4, 14) 
+OneNeuronIzhInF(100, 0.01, 0.02, 0.2, 30, -50, 2, 14)
+OneNeuronIzhInF(100, 0.01, 0.1, 0.2, 30, -65, 2, 14) 
+OneNeuronIzhInF(100, 0.01, 0.02, 0.25, 30, -65, 2, 14) 
+
+Exp Model
+OneNeuronExpInf(500, 0.01, 500, 281, 30, -70.6, -50.4, 1, 144, 80.5, 4, -50.4)
+OneNeuronExpInf(100, 0.1, 1000, 281, 30, -70.6, -50.4, 1, 144, 80.5, 4, -50.4)
+OneNeuronExpInf(800, 0.01, 1500, 281, 30, -60, -50.4, 1, 720, 80.5, 80, -47.4)
+OneNeuronExpInf(500, 0.01, 500, 281, 30, -60, -50.4, 1, 720, 80.5, 80, -50.4)
+
+NeuronSimulations
+
+
