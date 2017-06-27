@@ -26,6 +26,7 @@ There are also a number of programs that help construct the network models
   +  NetworkCoupling.m : Constructs a few different coupling matrices - straight line network / nearest neighbour network / random coupling
   +  Synchronisation.m : Calculates level of synchronisation between all pairs of neuron in network at every time point in simulation, and takes average
   +  *plot.m : helper method to plot figures in GUI
+  +  *.fig : figures for displaying result of Matlab programs
 
 The final file
   +  NeuronNetworkInFwithPlasticity.m : Models a network of integrate and fire neurons, however this extended model calculates each link between two neurons dynamically using a synaptic weights model. The more spikes fired by a neuron feeding into the synapse, the stronger the link made by the synapse becomes.
@@ -33,4 +34,3 @@ The final file
 
 The Docs folder contains sample run configurations and results in a Demo.doc
 
-The figs folder contains result figures from running the Matlab programs.
